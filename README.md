@@ -1,7 +1,7 @@
 # MandelbrotSet
 Multi-threaded Mandelbrot set viewer in C++
 
-Download from [here](https://github.com/armytricks/MandelbrotSet/releases/latest)
+[Download](https://github.com/armytricks/MandelbrotSet/releases/latest)
 
 ## Controls
 
