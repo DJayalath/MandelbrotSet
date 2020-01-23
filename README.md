@@ -1,4 +1,7 @@
 # MandelbrotSet
+
+<img src="https://thumbs.gfycat.com/ImpossibleFastBoubou-size_restricted.gif">
+
 Multi-threaded Mandelbrot set viewer in C++
 
 [Download](https://github.com/armytricks/MandelbrotSet/releases/latest)
